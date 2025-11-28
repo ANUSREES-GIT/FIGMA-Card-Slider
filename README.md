@@ -13,6 +13,14 @@ It showcases a clean, swipeable card slider layout that can be used for mobile a
 
 ---
 
+## 🔗 Figma Prototype
+You can view and interact with the live Figma prototype here:
+
+👉 **[View Prototype](https://www.figma.com/proto/FeIkGfUG41mWO1au5YG9tL/image-card?node-id=1-2&starting-point-node-id=1%3A2&t=qMzJtkuHglzENcy6-1)**
+
+
+---
+
 ## 📷 Screenshots
 
 
